@@ -1,0 +1,6 @@
+{
+  "name": "TRADING WITH RDX",
+  "description": "The premier trading education hub with trending stock & crypto books, high-winrate PDFs & cheat sheets, masterclasses, live trading mentorship, and verified access portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
